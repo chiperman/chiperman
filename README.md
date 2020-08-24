@@ -8,15 +8,11 @@ I am recent Computer Science Graduate.
 </p>
 <br>
 
-### :computer: My Status
+## :computer: My Status
 
 ![chiperman's github stats](https://github-readme-stats.vercel.app/api?username=chiperman&show_icons=true)
 
 ### 📝 My Site
-
-[![My Moments](https://github-readme-stats.vercel.app/api/pin/?username=chiperman&repo=JustBB)](https://chiperman.github.io/JustBB/)
-
-[![My Blog](https://github-readme-stats.vercel.app/api/pin/?username=chiperman&repo=chiperman.github.io)](https://chiperman.github.io/)
 
 <a href="https://chiperman.github.io/JustBB/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiperman&repo=JustBB" /></a>
