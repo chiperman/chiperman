@@ -6,16 +6,8 @@
   <em>
 I am recent Computer Science Graduate.
 </p>
-
 <br>
 
+### :computer:My Status
+
 ![chiperman's github stats](https://github-readme-stats.vercel.app/api?username=chiperman&show_icons=true)
-
-
-
-
-
-
-
-
-
